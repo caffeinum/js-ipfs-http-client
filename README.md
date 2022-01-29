@@ -1,5 +1,6 @@
 # 🔒 Archived <!-- omit in toc -->
 
+
 The contents of this repo have been merged into [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs).
 
 Please open [issues](https://github.com/ipfs/js-ipfs/issues) or submit [PRs](https://github.com/ipfs/js-ipfs/pulls) there.
